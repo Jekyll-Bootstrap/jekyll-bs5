@@ -6,7 +6,7 @@ A basic bootstrap 5 starter theme for your jekyll blog. I just started this temp
 
 ## Installation
 
-Clone the repo locally and in the terminal type: `bundle install` wait for it to finish and then type `bundle exec jekyll serve` you will need to already have ruby, bundle, and jekyll set up. Follow the guide on the jekyll site to do that.
+Clone the repo locally and in the terminal type: `bundle install` wait for it to finish and then type `bundle exec jekyll serve` you will need to already have ruby, bundle, and jekyll set up. Follow the guide on the jekyll site to do that. You can also include this theme as a gem in your Gemfile and run `bundle install` then it will include this gem and you will be ready to go. 
 
 ## Site Structure
 
